@@ -1,0 +1,17 @@
+{
+  "name": "mongo_scanner",
+  "version": "1.0.0",
+  "description": "This is a powerful mongo scanner",
+  "main": "scanner.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Yosi Dahan",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.1.0",
+    "iprange": "^0.1.0",
+    "mongodb": "^2.0.33",
+    "request": "^2.57.0"
+  }
+}
