@@ -4,7 +4,8 @@ The script will ask you to type an ip address in the form of: 10.200.0.0/20
 
 # Usage
 ```javascript
-node scanner.js
+1) npm install
+2) node scanner.js
 ```
 
 
